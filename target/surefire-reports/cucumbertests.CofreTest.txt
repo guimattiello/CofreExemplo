@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: cofre.DestravadoCofrePMTest
+Test set: cucumbertests.CofreTest
 -------------------------------------------------------------------------------
-Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.559 sec
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.733 sec
